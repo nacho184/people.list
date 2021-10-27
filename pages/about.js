@@ -5,7 +5,7 @@ const About = () => {
   return (
     <>
       <Head >
-        <title>@Nacho184 | About</title>
+        <title>PEOPLE LIST | About</title>
         <meta name="keywords" content="home"/>
       </Head>
 

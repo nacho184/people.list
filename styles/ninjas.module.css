@@ -5,11 +5,8 @@
     margin: 20px 10px;
     border-left: 8px solid #fff;
     
-    
 }
 .single:hover{
-    border-left: 8px solid #276873;
-   
-	
-   
+    border-left: 8px solid #777;
+    box-shadow: 0px 0px 6px 0px rgb(161, 161, 161);
 }

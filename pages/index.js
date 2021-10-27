@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <>
       <Head >
-        <title>@Nacho184 | Home</title>
+        <title>PEOPLE LIST | Home</title>
         <meta name="keywords" content="home"/>
       </Head>
 
