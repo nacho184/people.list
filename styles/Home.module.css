@@ -37,7 +37,7 @@
 }
 .linksninja{
   
-  width: 100px;
+  width: 60px;
   padding: 5px 0;
   color: #333;
   text-align: center;
@@ -55,7 +55,7 @@
 
 .linksninja:hover {
   
-  width: 100px;
+  width: 60px;
   padding: 5px 0;
   background: rgb(199, 199, 199);
   border-radius: 4px;

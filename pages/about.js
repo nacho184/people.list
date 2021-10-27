@@ -1,5 +1,14 @@
+import Head from 'next/head'
+
+
 const About = () => {
   return (
+    <>
+      <Head >
+        <title>@Nacho184 | About</title>
+        <meta name="keywords" content="home"/>
+      </Head>
+
     <div>
       <h1>About</h1>
       <p>
@@ -21,6 +30,7 @@ const About = () => {
         mollit anim id est laborum.
       </p>
     </div>
+    </>
   );
 };
 
